@@ -7,9 +7,6 @@
 This project was designed to make the student become familiar with npm packages and node. The student was to install inquirer and then create a prompt for the terminal. The responses were then to be dynamically inserted in to the created ReadME file.
 
 ## Table of Contents
-- [Ch.09-automated-ReadME](#ch09-automated-readme)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
